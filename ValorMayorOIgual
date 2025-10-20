@@ -1,0 +1,12 @@
+Algoritmo ValorMayorOIgual
+	Definir nota Como Real
+	Escribir "digite su nota de (0.0 a 5.0)"
+	leer nota
+	si(nota>=4.0)Entonces
+		Escribir "felicidades, pasaste"
+	SiNo
+		Escribir "la cagaste broki"
+	FinSi
+	
+	
+FinAlgoritmo
